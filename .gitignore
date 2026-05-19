@@ -4,6 +4,7 @@
 *.tar.gz
 env/*
 result/*
+outputs/*
 __pycache__/*
 20170512-110547/*
 20170512-110547.zip
